@@ -1,0 +1,12 @@
+{
+    "name": "home-red",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "home-red.json",
+            "credentialsFile": "home-red_cred.json"
+        }
+    }
+}
