@@ -1,1 +1,36 @@
-[]
+[
+    {
+        "id": "8688cb2c.c214c8",
+        "type": "tab",
+        "label": "フロー 1",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "42eea47a.3d622c",
+        "type": "inject",
+        "z": "8688cb2c.c214c8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 430,
+        "y": 40,
+        "wires": [
+            []
+        ]
+    }
+]
